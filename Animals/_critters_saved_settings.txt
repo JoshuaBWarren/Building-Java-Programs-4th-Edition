@@ -1,0 +1,7 @@
+#CSE 142 Critters saved settings
+#Fri Mar 23 16:35:23 PDT 2018
+Number\ of\ each\ critter=1
+Width=5000
+Debug\ output=false
+Network\ features=true
+Height=500
